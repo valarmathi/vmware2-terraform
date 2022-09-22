@@ -23,6 +23,6 @@ variable "password"                 {
     default = "cmp#VxB@N7SM"
 } 
 variable "vsphere_server"           {
-    default = "https://10.198.1.13"
+    default = "10.198.1.13"
 }
 variable "vmname"{}
